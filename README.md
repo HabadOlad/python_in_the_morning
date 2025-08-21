@@ -4,7 +4,7 @@
 A repo documenting my journey to becoming a pythonista!
 ## Introduction
 ---
-### Chapter 1 - Python Basics
+### Chapter 1 - Python Basics + inputs
 ### Chapter 2 - if-else and Flow Control
 ### Chapter 3 - Loops
 ### Chapter 4 - Functions
