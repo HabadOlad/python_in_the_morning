@@ -1,4 +1,4 @@
-# Python-learning-and-Fundamentals- 
+# python-in-the-morning
 
 ---
 A repo documenting my journey to becoming a pythonista!
