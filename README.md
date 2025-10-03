@@ -4,12 +4,12 @@
 A repo documenting my journey to becoming a pythonista!
 ## Introduction
 ---
-### Chapter 1 - Python Basics + inputs
-### Chapter 2 - if-else and Flow Control
-### Chapter 3 - Loops
-### Chapter 4 - Functions
-### Chapter 5 - Debugging
-### Chapter 6 - Lists
-### Chapter 7 - Dictionaries and Structuring Data
-### Chapter 8 - Strings and Text Editing
-### Chapter 9 - Text Pattern Matching with Regular Expressions
+### Chapter 1 - A SHIP THAT FIRES BULLETS
+### Chapter 2 - ALIENS!  
+### Chapter 3 - SCORING!
+### Chapter 4 - GENERATING!
+### Chapter 5 - DOWNLOADING DATA!
+### Chapter 6 - WORKING WITH APIS!
+### Chapter 7 - GETTING STARTED WITH DJANGO!
+### Chapter 8 - USER ACCOUNTS!
+### Chapter 9 - STYLING AND DEPLOYING AN APP!
