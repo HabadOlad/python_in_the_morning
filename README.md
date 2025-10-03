@@ -1,4 +1,4 @@
-# python-in-the-morning
+# python_in_the_morning
 
 ---
 A repo documenting my journey to becoming a pythonista!
