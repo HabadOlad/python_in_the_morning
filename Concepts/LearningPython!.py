@@ -41,3 +41,4 @@ Error Detection: Errors are caught at "runtime." The program will start running 
 line containing the error.
 Examples: Python, JavaScript, Ruby, PHP.
 '''
+
