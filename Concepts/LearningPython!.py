@@ -42,3 +42,14 @@ line containing the error.
 Examples: Python, JavaScript, Ruby, PHP.
 '''
 
+'''
+On a related note, people also sometimes call Python an interpreted language to distinguish it from languages like C and C++. While this is also sometimes meant to pigeonhole, it’s also easier to dismiss: there are many implementations of Python today, spanning the spectrum from traditional interpreters to traditional compilers, so “interpreted” doesn’t apply. The clearer distinction may be that Python is dynamically typed, not statically typed like languages that are normally compiled. As you’ll soon learn, this accounts for much of the power that Python brings to development tasks
+
+In a dynamically typed language, the variable doesn't have a fixed type—only the value it holds does. You don't have to declare if a variable is a string or an integer; the computer figures it out while the program is running
+
+A loosely typed language is "forgiving." If you try to perform an operation on two different types (like adding a number to a string), the language will try to automatically convert (coerce) one of them so the code doesn't crash.
+
+The opposite of a dynamically typed language is a statically typed language.
+
+While dynamic languages check types while the program is running, static languages check types while the program is being compiled (before it ever starts).
+'''
