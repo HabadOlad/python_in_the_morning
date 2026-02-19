@@ -16,6 +16,20 @@ In fact, it’s now fairly safe to say that Python
  Python ushered in changes that were at least as profound as those of the earlier transition from 
  machine language to compiled languages. 
 
+ A Simple Illustration
+If you were writing a line of code to add two variables, here is how the languages would react:
+
+Static (Java):
+
+Java
+int x = 5;
+x = "Hello"; // ERROR! The compiler won't even let you run this.
+
+Dynamic (Python):
+
+Python
+x = 5
+x = "Hello" # Totally fine. x is now a string.
  
 '''
 
@@ -52,4 +66,9 @@ A loosely typed language is "forgiving." If you try to perform an operation on t
 The opposite of a dynamically typed language is a statically typed language.
 
 While dynamic languages check types while the program is running, static languages check types while the program is being compiled (before it ever starts).
+'''
+
+
+'''
+
 '''
