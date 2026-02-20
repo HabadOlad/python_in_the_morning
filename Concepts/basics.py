@@ -1,5 +1,11 @@
 #basics !
+#this is a comment!
+''''
+This is a multi line comment
+'''
 #This is a program that says hello and asks for your name
+
+
 print((10 * "-") + "program begins" + (10 * "-"))
 print('Hello, world!')
 print('What is your name?')  # Ask for their name.
