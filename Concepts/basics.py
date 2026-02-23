@@ -15,8 +15,8 @@ location = input('>')
 print('It is good to meet you, ' + my_name)
 print("You're from " + location + " How exotic!")
 print('The length of your name is:')
-print(len(my_name))
+print(len(my_name)) #len is The len() function in Python is used to determine the number of items in an object, such as strings, lists, or dictionaries. 
 print('What is your age?')  # Ask for their age.
 my_age = input('>')
-print('You will be ' + str(int(my_age) + 1) + ' in a year.') #string conversion into an age
+print('You will be ' + str(int(my_age) + 1) + ' in a year.') #string conversion into an age str creates a new string object from the given object 
 print((10 * "-") + "program ends" + (10 * "-"))
